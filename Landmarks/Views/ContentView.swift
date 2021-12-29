@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-//The old master branch. This comment should be annihilated by my powerful command.
+//The New Master Branch! Hopefully I'm seeing this instead of the weird old master comment.
 
 struct ContentView: View {
     var body: some View {
