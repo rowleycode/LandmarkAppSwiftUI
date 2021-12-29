@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-//This is the new master branch. If a future version of me is reading this feel free to delete this comment.
+//The old master branch. This comment should be annihilated by my powerful command.
 
 struct ContentView: View {
     var body: some View {
